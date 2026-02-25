@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Mettur Dam | Dams In India | Tourist Places In Tamil Nadu | Famous Dams",
   description: "Among various tourist places in Tamil Nadu, is the huge Mettur Dam which is one of the largest Dams in India and being listed in famous dams.",
+  alternates: {
+    canonical: "https://www.metturdam.com/",
+  },
    icons: {
     icon: [
       { url: '/metturdam-32x32.png', sizes: '16x16', type: 'image/png' },
